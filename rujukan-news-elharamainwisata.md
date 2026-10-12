@@ -54,9 +54,14 @@ Pegunungan, Barat Daya) belum ditemukan subdomainnya.
 
 ### Media sosial resmi Kemenhaj
 
-Akun resmi Kemenhaj dan Kanwil di Instagram, YouTube, dan TikTok sering memuat rilis lebih cepat daripada
-websitenya. Perlu dicek manual karena handle-nya tidak tercantum di bundle situs haji.go.id (yang masih
-mencantumkan akun lama `@kemenag_ri`).
+Diambil dari konfigurasi resmi `haji.go.id/api/config`:
+[Instagram @kemenhaj.ri](https://www.instagram.com/kemenhaj.ri/) ·
+[TikTok @kemenhaj_ri](https://www.tiktok.com/@kemenhaj_ri) ·
+[X @kemenhaj_ri](https://x.com/kemenhaj_ri) ·
+[Facebook kemenhaj](https://facebook.com/kemenhaj)
+
+API berita publik: `https://haji.go.id/api/news` (juga tersedia di tiap subdomain Kanwil). Rujukan gambar
+per artikel ada di [`rujukan-gambar-artikel.md`](rujukan-gambar-artikel.md).
 
 ---
 
